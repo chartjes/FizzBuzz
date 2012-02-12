@@ -1,0 +1,12 @@
+Quick sample code showng how to create a FizzBuzz transform. Includes the
+following files:
+
+fizzBuzz.php 
+    -> contains fizzBuzzTransform() function
+fzzBuzzOutput.php 
+    -> sample code for performing FizzBuzz on the numbers 1 to 100
+
+FizzBuzzTest.php
+    -> PHPUnit tests for fizzBuzzTransform(), assumes you have PHPUnit
+       already installed in your include path
+
